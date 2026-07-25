@@ -46,4 +46,3 @@ Kaggle: IBM HR Analytics Employee Attrition & Performance Dataset
 The Random Forest model outperformed the Decision Tree in terms of overall accuracy (84.35%) and precision (54.55%). Random Forests generally outperform individual Decision Trees because they aggregate the predictions of multiple trees trained on random subsets of data and features, which reduces variance and prevents overfitting. However, the Decision Tree achieved better recall (31.91%), meaning it caught more of the employees who actually left. 
 
 A primary limitation of Decision Trees is their tendency to overfit the training data and memorize noise. On the other hand, the main limitation of the Random Forest model is its lack of interpretability; an ensemble of 100 trees is much harder to visualize and explain to stakeholders compared to a single decision tree.
-# MpOnline-AIML-Assignment-5
