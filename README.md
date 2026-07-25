@@ -11,6 +11,7 @@ The objective of this project is to build Decision Tree and Random Forest classi
 
 ## Dataset Link
 Kaggle: IBM HR Analytics Employee Attrition & Performance Dataset
+link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Libraries Used
 - pandas
